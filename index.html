@@ -581,7 +581,7 @@
       }
 
       #w-0pmxp6sh .image-background {
-        background: center center / cover no-repeat url("assets/footer-generated.webp") !important;
+        background: center center / contain no-repeat url("assets/mtravlixentorx-logo.svg") !important;
       }
 
       #w-pxfxc3wv .image-background {
@@ -753,6 +753,29 @@
         document.addEventListener("DOMContentLoaded", () => {
           ["4mgpaafl", "ocjc4w5b", "yw9cc91e"].forEach(bindForm);
         });
+      })();
+    </script>
+
+    <script id="mtrav-force-logo">
+      (() => {
+        const LOGO_URL = "assets/mtravlixentorx-logo.svg";
+        function applyLogo(selector) {
+          const el = document.querySelector(selector);
+          if (!el) return;
+          el.style.setProperty("background-image", `url("${LOGO_URL}")`, "important");
+          el.style.setProperty("background-size", "contain", "important");
+          el.style.setProperty("background-repeat", "no-repeat", "important");
+          el.style.setProperty("background-position", "center center", "important");
+        }
+        function run() {
+          applyLogo("#w-x3y2rzbo .image-background");
+          applyLogo("#w-0pmxp6sh .image-background");
+          applyLogo("#w-pxfxc3wv .image-background");
+        }
+        document.addEventListener("DOMContentLoaded", run);
+        window.addEventListener("load", run);
+        setTimeout(run, 350);
+        setTimeout(run, 1200);
       })();
     </script>
   </body>
