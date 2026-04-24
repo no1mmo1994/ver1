@@ -35,7 +35,7 @@
 
 ## Logo Usage
 
-- Upload: `assets/apexclean-logo.svg`
+- Upload: `assets/atechtransmission-logo.svg`
 - Header logo container:
   - fit: contain
   - align: center

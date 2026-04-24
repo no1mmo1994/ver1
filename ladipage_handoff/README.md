@@ -1,4 +1,4 @@
-# LadiPage Handoff - APEC CLEAN CO LLC
+# LadiPage Handoff - A TECH TRANSMISSION LLC
 
 This folder contains everything needed to rebuild the current landing page inside LadiPage builder.
 
@@ -11,14 +11,14 @@ This folder contains everything needed to rebuild the current landing page insid
 
 ## Assets
 
-- `assets/apexclean-logo.svg` (company logo)
+- `assets/atechtransmission-logo.svg` (company logo)
 - `assets/header-generated.webp` (optional decorative header visual)
 - `assets/footer-generated.webp` (optional decorative footer visual)
 
 ## Recommended Build Order in LadiPage
 
 1. Create sections in this order: Header -> Hero -> Registration Form -> FAQ -> Footer.
-2. Upload `apexclean-logo.svg` and set it for header logo and footer logo.
+2. Upload `atechtransmission-logo.svg` and set it for header logo and footer logo.
 3. Paste text from `CONTENT_MAP.md`.
 4. Configure colors and fonts using `STYLE_GUIDE.md`.
 5. Configure form and CTA behaviors using `FORM_AND_CTA.md`.

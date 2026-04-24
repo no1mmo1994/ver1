@@ -2,14 +2,14 @@
 
 ## 1) Header
 
-- Brand title: `APEC CLEAN CO LLC`
+- Brand title: `A TECH TRANSMISSION LLC`
 - Left menu text: `Menu`
 - Right CTA text: `Đăng ký tư vấn`
 
 ## 2) Hero Section
 
 - H1:
-  `APEC CLEAN CO LLC`
+  `A TECH TRANSMISSION LLC`
 - Subheadline line 1:
   `chuyên : Cung ứng việc làm tại đất nước Campuchia - Philippines`
 - Subheadline line 2:
@@ -55,9 +55,9 @@
 - Footer heading:
   `TRUNG TÂM GIỚI THIỆU VIỆC LÀM`
 - Contact text block:
-  - `Address: 6770 STANFORD RANCH RD, ROSEVILLE, CA 95678`
-  - `Hotline: (865) 832-8848`
-  - `Website: apecclean.ph-mt.com`
+  - `Address: 10675 Hesperia Rd, Hesperia, CA 92345`
+  - `Hotline: (223) 465-4373`
+  - `Website: atechtranmiss.ph-mt.com`
 - Left column title:
   `Liên kết khác`
 - Left column items:

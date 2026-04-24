@@ -1,12 +1,12 @@
-LADIPAGE PASTE KIT - APEC CLEAN CO LLC
+LADIPAGE PASTE KIT - A TECH TRANSMISSION LLC
 
 SECTION 1 - HEADER
-- Company: APEC CLEAN CO LLC
+- Company: A TECH TRANSMISSION LLC
 - Menu text: Menu
 - CTA text: Đăng ký tư vấn
 
 SECTION 2 - HERO
-- H1: APEC CLEAN CO LLC
+- H1: A TECH TRANSMISSION LLC
 - Line 1: chuyên : Cung ứng việc làm tại đất nước Campuchia - Philippines
 - Line 2: phí đi lại 0 đồng công ty lo trọn gói Xuất Nhập Cảnh !
 
@@ -40,9 +40,9 @@ FAQ 4
 
 SECTION 5 - FOOTER
 - Footer title: TRUNG TÂM GIỚI THIỆU VIỆC LÀM
-- Address: 6770 STANFORD RANCH RD, ROSEVILLE, CA 95678
-- Hotline: (865) 832-8848
-- Website: apecclean.ph-mt.com
+- Address: 10675 Hesperia Rd, Hesperia, CA 92345
+- Hotline: (223) 465-4373
+- Website: atechtranmiss.ph-mt.com
 
 FOOTER LINKS
 - Hướng dẫn mua hàng
@@ -51,11 +51,11 @@ FOOTER LINKS
 - Điều khoản & Điều kiện
 
 CTA ACTIONS
-- Call: tel:+18658328848
-- Email: mailto:info@apecclean.ph-mt.com?subject=Consultation%20Request&body=Hello%20APEC%20CLEAN%20CO%20LLC%2C%20I%20would%20like%20to%20register.
-- WhatsApp: https://wa.me/18658328848?text=Hello%20APEC%20CLEAN%20CO%20LLC%2C%20I%20want%20to%20register.
+- Call: tel:+12234654373
+- Email: mailto:info@atechtranmiss.ph-mt.com?subject=Consultation%20Request&body=Hello%20A%20TECH%20TRANSMISSION%20LLC%2C%20I%20would%20like%20to%20register.
+- WhatsApp: https://wa.me/12234654373?text=Hello%20A%20TECH%20TRANSMISSION%20LLC%2C%20I%20want%20to%20register.
 
 ASSETS TO USE
-- Logo: assets/apexclean-logo.svg
+- Logo: assets/atechtransmission-logo.svg
 - Header image (optional): assets/header-generated.webp
 - Footer image (optional): assets/footer-generated.webp
