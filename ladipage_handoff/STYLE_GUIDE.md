@@ -35,7 +35,7 @@
 
 ## Logo Usage
 
-- Upload: `assets/mtravlixentorx-logo.svg`
+- Upload: `assets/apexclean-logo.svg`
 - Header logo container:
   - fit: contain
   - align: center
