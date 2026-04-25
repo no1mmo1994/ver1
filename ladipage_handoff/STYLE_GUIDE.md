@@ -35,7 +35,7 @@
 
 ## Logo Usage
 
-- Upload: `assets/atechtransmission-logo.svg`
+- Upload: `assets/alexthemobile-logo.svg`
 - Header logo container:
   - fit: contain
   - align: center

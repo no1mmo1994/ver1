@@ -2,14 +2,14 @@
 
 ## 1) Header
 
-- Brand title: `A TECH TRANSMISSION LLC`
+- Brand title: `Alex The Mobile Tech LLC`
 - Left menu text: `Menu`
 - Right CTA text: `Đăng ký tư vấn`
 
 ## 2) Hero Section
 
 - H1:
-  `A TECH TRANSMISSION LLC`
+  `Alex The Mobile Tech LLC`
 - Subheadline line 1:
   `chuyên : Cung ứng việc làm tại đất nước Campuchia - Philippines`
 - Subheadline line 2:
@@ -55,9 +55,9 @@
 - Footer heading:
   `TRUNG TÂM GIỚI THIỆU VIỆC LÀM`
 - Contact text block:
-  - `Address: 10675 Hesperia Rd, Hesperia, CA 92345`
-  - `Hotline: (223) 465-4373`
-  - `Website: atechtranmiss.ph-mt.com`
+  - `Address: 1643 E Fairfield Ct #1, Ontario, CA 91761`
+  - `Hotline: (363) 900-4133`
+  - `Website: alexthemobile.ph-mt.com`
 - Left column title:
   `Liên kết khác`
 - Left column items:

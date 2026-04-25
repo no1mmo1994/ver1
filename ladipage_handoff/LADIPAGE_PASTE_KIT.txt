@@ -1,12 +1,12 @@
-LADIPAGE PASTE KIT - A TECH TRANSMISSION LLC
+LADIPAGE PASTE KIT - Alex The Mobile Tech LLC
 
 SECTION 1 - HEADER
-- Company: A TECH TRANSMISSION LLC
+- Company: Alex The Mobile Tech LLC
 - Menu text: Menu
 - CTA text: Đăng ký tư vấn
 
 SECTION 2 - HERO
-- H1: A TECH TRANSMISSION LLC
+- H1: Alex The Mobile Tech LLC
 - Line 1: chuyên : Cung ứng việc làm tại đất nước Campuchia - Philippines
 - Line 2: phí đi lại 0 đồng công ty lo trọn gói Xuất Nhập Cảnh !
 
@@ -40,9 +40,9 @@ FAQ 4
 
 SECTION 5 - FOOTER
 - Footer title: TRUNG TÂM GIỚI THIỆU VIỆC LÀM
-- Address: 10675 Hesperia Rd, Hesperia, CA 92345
-- Hotline: (223) 465-4373
-- Website: atechtranmiss.ph-mt.com
+- Address: 1643 E Fairfield Ct #1, Ontario, CA 91761
+- Hotline: (363) 900-4133
+- Website: alexthemobile.ph-mt.com
 
 FOOTER LINKS
 - Hướng dẫn mua hàng
@@ -51,11 +51,11 @@ FOOTER LINKS
 - Điều khoản & Điều kiện
 
 CTA ACTIONS
-- Call: tel:+12234654373
-- Email: mailto:info@atechtranmiss.ph-mt.com?subject=Consultation%20Request&body=Hello%20A%20TECH%20TRANSMISSION%20LLC%2C%20I%20would%20like%20to%20register.
-- WhatsApp: https://wa.me/12234654373?text=Hello%20A%20TECH%20TRANSMISSION%20LLC%2C%20I%20want%20to%20register.
+- Call: tel:+13639004133
+- Email: mailto:info@alexthemobile.ph-mt.com?subject=Consultation%20Request&body=Hello%20Alex%20The%20Mobile%20Tech%20LLC%2C%20I%20would%20like%20to%20register.
+- WhatsApp: https://wa.me/13639004133?text=Hello%20Alex%20The%20Mobile%20Tech%20LLC%2C%20I%20want%20to%20register.
 
 ASSETS TO USE
-- Logo: assets/atechtransmission-logo.svg
+- Logo: assets/alexthemobile-logo.svg
 - Header image (optional): assets/header-generated.webp
 - Footer image (optional): assets/footer-generated.webp
