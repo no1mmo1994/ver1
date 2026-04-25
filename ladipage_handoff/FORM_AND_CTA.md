@@ -26,8 +26,8 @@ Use:
 
 ### Call
 
-- Link: `tel:+13639004133`
-- Display: `(363) 900-4133`
+- Link: `tel:+17817587634`
+- Display: `(781) 758-7634`
 
 ### Email
 
@@ -37,12 +37,12 @@ Use:
 ### WhatsApp
 
 - Link:
-  `https://wa.me/13639004133?text=Hello%20Alex%20The%20Mobile%20Tech%20LLC%2C%20I%20want%20to%20register.`
+  `https://wa.me/17817587634?text=Hello%20Alex%20The%20Mobile%20Tech%20LLC%2C%20I%20want%20to%20register.`
 
 ## Footer Contact Block
 
 - Address: `1643 E Fairfield Ct #1, Ontario, CA 91761`
-- Hotline: `(363) 900-4133`
+- Hotline: `(781) 758-7634`
 - Website: `alexthemobile.ph-mt.com`
 
 ## Mobile QA Checklist

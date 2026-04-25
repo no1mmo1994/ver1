@@ -56,7 +56,7 @@
   `TRUNG TÂM GIỚI THIỆU VIỆC LÀM`
 - Contact text block:
   - `Address: 1643 E Fairfield Ct #1, Ontario, CA 91761`
-  - `Hotline: (363) 900-4133`
+  - `Hotline: (781) 758-7634`
   - `Website: alexthemobile.ph-mt.com`
 - Left column title:
   `Liên kết khác`
