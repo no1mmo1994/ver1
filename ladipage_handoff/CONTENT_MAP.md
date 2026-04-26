@@ -2,14 +2,14 @@
 
 ## 1) Header
 
-- Brand title: `Alex The Mobile Tech LLC`
+- Brand title: `A&R Fire Tech LLC`
 - Left menu text: `Menu`
 - Right CTA text: `Đăng ký tư vấn`
 
 ## 2) Hero Section
 
 - H1:
-  `Alex The Mobile Tech LLC`
+  `A&R Fire Tech LLC`
 - Subheadline line 1:
   `chuyên : Cung ứng việc làm tại đất nước Campuchia - Philippines`
 - Subheadline line 2:
@@ -55,9 +55,9 @@
 - Footer heading:
   `TRUNG TÂM GIỚI THIỆU VIỆC LÀM`
 - Contact text block:
-  - `Address: 1643 E Fairfield Ct #1, Ontario, CA 91761`
-  - `Hotline: (781) 758-7634`
-  - `Website: alexthemobile.ph-mt.com`
+  - `Address: 15000 Cedar Point, Sylmar, CA 91342`
+  - `Hotline: (458) 877-4675`
+  - `Website: afiretechllc.ph-mt.com`
 - Left column title:
   `Liên kết khác`
 - Left column items:

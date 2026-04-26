@@ -26,24 +26,24 @@ Use:
 
 ### Call
 
-- Link: `tel:+17817587634`
-- Display: `(781) 758-7634`
+- Link: `tel:+14588774675`
+- Display: `(458) 877-4675`
 
 ### Email
 
 - Link:
-  `mailto:info@alexthemobile.ph-mt.com?subject=Consultation%20Request&body=Hello%20Alex%20The%20Mobile%20Tech%20LLC%2C%20I%20would%20like%20to%20register.`
+  `mailto:info@afiretechllc.ph-mt.com?subject=Consultation%20Request&body=Hello%20A%26R%20Fire%20Tech%20LLC%2C%20I%20would%20like%20to%20register.`
 
 ### WhatsApp
 
 - Link:
-  `https://wa.me/17817587634?text=Hello%20Alex%20The%20Mobile%20Tech%20LLC%2C%20I%20want%20to%20register.`
+  `https://wa.me/14588774675?text=Hello%20A%26R%20Fire%20Tech%20LLC%2C%20I%20want%20to%20register.`
 
 ## Footer Contact Block
 
-- Address: `1643 E Fairfield Ct #1, Ontario, CA 91761`
-- Hotline: `(781) 758-7634`
-- Website: `alexthemobile.ph-mt.com`
+- Address: `15000 Cedar Point, Sylmar, CA 91342`
+- Hotline: `(458) 877-4675`
+- Website: `afiretechllc.ph-mt.com`
 
 ## Mobile QA Checklist
 

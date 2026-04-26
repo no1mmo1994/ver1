@@ -1,4 +1,4 @@
-# LadiPage Handoff - Alex The Mobile Tech LLC
+# LadiPage Handoff - A&R Fire Tech LLC
 
 This folder contains everything needed to rebuild the current landing page inside LadiPage builder.
 
